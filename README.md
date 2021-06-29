@@ -24,16 +24,20 @@ Location: Faculty of Basic Medical Sciences, Bauchi State University, Nigeria.
 
 | Time          | Activity         |
 | :------------ | :--------------- |
-| 16:30 - 17:30 | Session 1        |
+| 10:00 - 10:15 | Welcome          |
+| 10:15 - 12:15 | Module 1: Getting to Know R |
+| 12:15 - 12:45 | * 30 minutes break*   |
+| 12:45 - 13:45 | Module 1: Getting to Know R |
+| 13:45 - 14:45 | * 1hr  break*   |
+| 14:45 - 17:30 | Module 2: Exploring your data in R |
+| 16:30 - 17:30 | Welcome (Aminu)        |
+
 | 17:30 - 17:40 | *Short break*   |
 | 17:40 - 18:30 | Session 2        |
 
 ## Invited speaker 
 
 Dr. Umar Ahmad is a Visiting Research Fellow on Genetics (Cancer) with Genetics and Regenerative Medicine Research Centre (GRMCR) of the Universiti Putra Malaysia (UPM) and a lecturer in Molecular Genetics Informatics Unit of Bauchi State University, Nigeria. He is the founder and CEO of [BioSeq Consulting](https://bioseqc.com/), a bioinformatics company that translates omics data into informative knowledge by providing quality high-throughput sequencing (NGS) data analysis. Umar's graduate training (PhD in cancer research) at [Genetics and Regenerative Medicine Research Centre](https://grmrc.org/) of the Universiti Putra Malaysia (UPM) and the [Malaysia Genome Institute](https://mgi-nibm.my/v5/index.php) focused on developing targeted therapy for human bladder cancer with primary focus on genomics and transcriptomics through bioinformatics analyses of NGS data such as transcriptome (RNA-Seq) and whole genome sequencing (WGS) data. Thus, his research group works on identifying and elucidating the genetic components of regulatory and signalling pathways that drive cancer recurrence and progression with a primary focus on bladder cancer as a model. Umar is voluntarily serving as the bioinformatics coordinator at [Science Communication Hub Nigeria](https://www.scicomnigeria.org/), where he supports a team that provides mentorship, implements training and community building for the next generation of Nigerian scientists. He is currently the Scholarly Communication Lead at [AfricArXiv](https://info.africarxiv.org/) – The free preprint service for African scientists. He previously served as the Secretary to the Structure Organisation Committee (SOC) of the [Nigerian Bioinformatics and Genomics Network](http://www.nbgnetwork.org/), and now serves as the Regional Coordinator (North East) of the same organisation. He is passionate about genetics and genomics, bioinformatics, computational biology and data science. He is also a strong advocate for community building that supports the data-intensive biomedical research community and underrepresented groups in STEM fields. Umar is occasionally found on [Twitter](https://twitter.com/babasaraki1), sharing science and most of the time on [Github](https://github.com/babasaraki), organising codes and repositories. He is currently developing a R/Bioconductor package that could be used to extract bladder cancer RNA-Seq data from publicly available repositories.
-
--   [Umar Ahmad](https://github.com/babasaraki)
--   @[babasaraki1](https://twitter.com/babasaraki1)
 
 
 ## Facilitators 
