@@ -49,7 +49,7 @@ We have a fantastic assitants for this webinar! They are:
 
 # Pre-Workshop Materials <a id="preworkshop"></a>
 
-Pre-work including programs to install can be found [here](https://github.com/babasaraki)
+Pre-work including programs to install can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSceFwDIAbXdSYTMBmXikhzsQ39-vbh6Ovkqcd8f4AZAsVkClA/viewform)
 
 
 ***
