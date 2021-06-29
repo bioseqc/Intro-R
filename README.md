@@ -70,9 +70,9 @@ Comming soon
  
  *<font color="#827e9c">Umar Ahmad</font>* 
  
- [Slides](https://drive.google.com/file/d/13tSS5kcFf7iCaIz_Cp1qbV0mDVFEGYJ_/view?usp=sharing)
+ [Slides](https://drive.google.com/file/d/1r2I7K6qOzUD5uyg6bb90BkC3g5x_vKwt/view?usp=sharing)
 
- [Data](https://drive.google.com/file/d/1H7h9mHTYK1QAH4wfNCK9vmiXKFk8ajMZ/view?usp=sharing)
+ [Data](https://docs.google.com/spreadsheets/d/172HY7RSYGaKi2jYMWbae80g0E2HxNBtceH9rQo5SRZo/edit?usp=sharing)
  
  [Master script](https://drive.google.com/file/d/1JBxZD6Xb2vKETA-5a-0S9LKZmwA3Io97/view?usp=sharing)
  
