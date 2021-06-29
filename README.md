@@ -23,9 +23,7 @@ by Umar Ahmad
 
 ## Invited speaker 
 
-Dr. Umar Ahmad is a PhD student of Genetics (Cancer) with Genetics and Regenerative Medicine Research Centre (GRMCR) of the Universiti Putra Malaysia (UPM) and the Malaysia Genome Institute (MGI). His work in basic and translational research is focused on developing targeted therapy for human bladder cancer with primary focused on cancer genomics and transcriptomics through bioinformatics analyses of next-generation sequence (NGS) data such as transcriptome (RNA-Seq) and whole genome sequencing (WGS) data. He is currently developing a R/Bioconductor package that could be used to extract bladder cancer RNA-Seq data from publicly available repositories.
-
-
+Umar Ahmad is the founder and CEO of BioSeq Consulting, a bioinformatics company that translates omics data into informative knowledge by providing quality high-throughput sequencing (NGS) data analysis. Umar's graduate training (PhD in cancer research) at Genetics and Regenerative Medicine Research Centre of the Universiti Putra Malaysia (UPM) and the Malaysia Genome Institute focused on developing targeted therapy for human bladder cancer with primary focus on genomics and transcriptomics through bioinformatics analyses of NGS data such as transcriptome (RNA-Seq) and whole genome sequencing (WGS) data. Thus, his research group works on identifying and elucidating the genetic components of regulatory and signalling pathways that drive cancer recurrence and progression with a primary focus on bladder cancer as a model. Umar is voluntarily serving as the bioinformatics coordinator at Science Communication Hub Nigeria, where he supports a team that provides mentorship, implements training and community building for the next generation of Nigerian scientists. He is currently the Scholarly Communication Lead at AfricArXiv – The free preprint service for African scientists. He previously served as the Secretary to the Structure Organisation Committee (SOC) of the Nigerian Bioinformatics and Genomics Network, and now serves as the Regional Coordinator (North East) of the same organisation. He is passionate about genetics and genomics, bioinformatics, computational biology and data science. He is also a strong advocate for community building that supports the data-intensive biomedical research community and underrepresented groups in STEM fields. Umar is occasionally found on Twitter(@babasaraki1), sharing science and most of the time on Github, organising codes and repositories. He is currently developing a R/Bioconductor package that could be used to extract bladder cancer RNA-Seq data from publicly available repositories.
 
 -   [Umar Ahmad](https://github.com/babasaraki)
 -   @[babasaraki1](https://twitter.com/babasaraki1)
@@ -97,7 +95,7 @@ Comming soon
 [Slides](https://drive.google.com/file/d/1H2EHnOBeMWyvkcAVcju8DddyExQuHXVm/view?usp=sharing)
 
 
-Original workshops materi
+Original workshops materials is adopted from 
 
 -----
 
