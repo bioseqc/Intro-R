@@ -26,14 +26,12 @@ Location: Faculty of Basic Medical Sciences, Bauchi State University, Nigeria.
 | :------------ | :--------------- |
 | 10:00 - 10:15 | Welcome          |
 | 10:15 - 12:15 | Module 1: Getting to Know R |
-| 12:15 - 12:45 | * 30 minutes break*   |
+| 12:15 - 12:45 | *30 minutes break* |
 | 12:45 - 13:45 | Module 1: Getting to Know R |
-| 13:45 - 14:45 | * 1hr  break*   |
-| 14:45 - 17:30 | Module 2: Exploring your data in R |
-| 16:30 - 17:30 | Welcome (Aminu)        |
-
-| 17:30 - 17:40 | *Short break*   |
-| 17:40 - 18:30 | Session 2        |
+| 13:45 - 14:45 | *1hr  break*   |
+| 14:45 - 16:45 | Module 2: Exploring your data in R |
+| 16:45 - 17:00 | *30 minutes break* |
+| 17:00 - 17:15 | Short project      |
 
 
 ## Invited speaker 
