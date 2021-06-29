@@ -80,7 +80,7 @@ Comming soon
 
 [Starter script](https://drive.google.com/file/d/1NLsnVHOToG4OY9pWFrwYu60JG6NP3NjP/view?usp=sharing)
 
-[Data](https://drive.google.com/file/d/1l3oCfJrn2ztoUjkpkctTr5_WGjFvD9JQ/view?usp=sharing)
+[Data](https://docs.google.com/spreadsheets/d/1ox37q8IJhLZb2z8OvPfm_iIdDYBxiNTK55n7FUfCjWE/edit?usp=sharing)
 
 [Solution](https://drive.google.com/file/d/1ULynyWmbZm035qhG88sQzYt4sEGXGADx/view?usp=sharing)
 
