@@ -1,6 +1,16 @@
 # One Day Introduction to R
 
-## Welcome
+by Umar Ahmad
+
+-----
+
+:spiral_calendar: September 27 2020  
+:alarm_clock:     16:30 - 18:30 (GMT +1) 
+
+-----
+
+
+# Welcome <a id="welcome"></a>
 
 
 ## Schedule
