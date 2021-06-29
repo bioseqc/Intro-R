@@ -4,8 +4,8 @@ by Umar Ahmad
 
 -----
 
-:spiral_calendar: September 27 2020  
-:alarm_clock:     16:30 - 18:30 (GMT +1) 
+:spiral_calendar: July 18 2021
+:alarm_clock:     10:00 - 18:00 (GMT +1) 
 
 -----
 
@@ -35,6 +35,7 @@ Location: Faculty of Basic Medical Sciences, Bauchi State University, Nigeria.
 | 17:30 - 17:40 | *Short break*   |
 | 17:40 - 18:30 | Session 2        |
 
+
 ## Invited speaker 
 
 Dr. Umar Ahmad is a Visiting Research Fellow on Genetics (Cancer) with Genetics and Regenerative Medicine Research Centre (GRMCR) of the Universiti Putra Malaysia (UPM) and a lecturer in Molecular Genetics Informatics Unit of Bauchi State University, Nigeria. He is the founder and CEO of [BioSeq Consulting](https://bioseqc.com/), a bioinformatics company that translates omics data into informative knowledge by providing quality high-throughput sequencing (NGS) data analysis. Umar's graduate training (PhD in cancer research) at [Genetics and Regenerative Medicine Research Centre](https://grmrc.org/) of the Universiti Putra Malaysia (UPM) and the [Malaysia Genome Institute](https://mgi-nibm.my/v5/index.php) focused on developing targeted therapy for human bladder cancer with primary focus on genomics and transcriptomics through bioinformatics analyses of NGS data such as transcriptome (RNA-Seq) and whole genome sequencing (WGS) data. Thus, his research group works on identifying and elucidating the genetic components of regulatory and signalling pathways that drive cancer recurrence and progression with a primary focus on bladder cancer as a model. Umar is voluntarily serving as the bioinformatics coordinator at [Science Communication Hub Nigeria](https://www.scicomnigeria.org/), where he supports a team that provides mentorship, implements training and community building for the next generation of Nigerian scientists. He is currently the Scholarly Communication Lead at [AfricArXiv](https://info.africarxiv.org/) – The free preprint service for African scientists. He previously served as the Secretary to the Structure Organisation Committee (SOC) of the [Nigerian Bioinformatics and Genomics Network](http://www.nbgnetwork.org/), and now serves as the Regional Coordinator (North East) of the same organisation. He is passionate about genetics and genomics, bioinformatics, computational biology and data science. He is also a strong advocate for community building that supports the data-intensive biomedical research community and underrepresented groups in STEM fields. Umar is occasionally found on [Twitter](https://twitter.com/babasaraki1), sharing science and most of the time on [Github](https://github.com/babasaraki), organising codes and repositories. He is currently developing a R/Bioconductor package that could be used to extract bladder cancer RNA-Seq data from publicly available repositories.
@@ -44,8 +45,8 @@ Dr. Umar Ahmad is a Visiting Research Fellow on Genetics (Cancer) with Genetics 
 
 We have a fantastic assitants for this webinar! They are:
 
-- Phillips Adeyemi, Ph.D. 
-- Adamu Abubakar Sadeeq, Ph.D.
+- Hamza Lawal
+- Murtala M. Jibril
 
 
 # Pre-Workshop Materials <a id="preworkshop"></a>
@@ -65,11 +66,11 @@ Comming soon
 
 ## Welcome
 
-*<font color="#827e9c">Rachade / Francis </font>*
+*<font color="#827e9c">Aminu / Garkuwa </font>*
  
  ## Module 1
  
- *<font color="#827e9c">Lauren Erdman</font>* 
+ *<font color="#827e9c">Umar Ahmad</font>* 
  
  [Slides](https://drive.google.com/file/d/13tSS5kcFf7iCaIz_Cp1qbV0mDVFEGYJ_/view?usp=sharing)
 
