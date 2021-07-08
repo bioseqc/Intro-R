@@ -20,6 +20,7 @@ R is a complete, flexible and open source system for statistical analysis and gr
 This "One Day Introduction to R" is design to provide the participants skill set required to generate intuitive graphics from their laboratory experiments. 
 
 Location: Faculty of Basic Medical Sciences, Bauchi State University, Nigeria.
+
 -----
 
 ## Learning objectives
