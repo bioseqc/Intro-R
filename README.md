@@ -17,11 +17,10 @@ R is a complete, flexible and open source system for statistical analysis and gr
 
 To review some basic about R, here are some resources for getting started:
 
-[A (very) short introduction to R](https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf)
-[DataCamp - Introduction to R with Jonathon Cornelissen](https://www.datacamp.com/courses/free-introduction-to-r)
-[Quick-R](https://www.statmethods.net)
-[Getting up to speed with R](https://rkabacoff.github.io/datavis/Rintro.pdf)
-
+- [A (very) short introduction to R](https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf)
+- [DataCamp - Introduction to R with Jonathon Cornelissen](https://www.datacamp.com/courses/free-introduction-to-r)
+- [Quick-R](https://www.statmethods.net)
+- [Getting up to speed with R](https://rkabacoff.github.io/datavis/Rintro.pdf)
 
 ## Audience
  
