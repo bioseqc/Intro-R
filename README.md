@@ -9,15 +9,26 @@ by Umar Ahmad
 
 -----
 
+# Welcome <a id="welcome"></a>
+
+## Overview
+
+R is a complete, flexible and open source system for statistical analysis and graphics, which has become a tool of choice for biologists and biomedical scientists who need to analyse and visualise their experimental data. This 1-day course will give an introduction to R and Rstudio (an integrated development environment for R) in an interactive manner. Participants will receive example data sets to practice data manipulation, graphical exploration and statistical hypothesis testing. If you want to transition from coding in base R to the tidyverse, or just jump into doing data science in the tidyverse without any prior R experience, this workshop is for you! 
+
 ## Audience
-Graduates, postgraduates, Principle Investigators, Researchers
+ 
+This "One Day Introduction to R" is design to provide the participants skill set required to generate intuitive graphics from their laboratory experiments. 
 
 Location: Faculty of Basic Medical Sciences, Bauchi State University, Nigeria.
-
 -----
 
+## Learning objectives
 
-# Welcome <a id="welcome"></a>
+At the end of this workshop course, participants should be comfortable with the R environment and be able to perform data science in Base R and Tidyverse that includes data clearning, data exploration and data visualisation and interpret a workflow for their data analysis:
+
+- interact with the R environment
+- import data, clean it and summarise it
+- Visualise data by graphics
 
 
 ## Schedule
