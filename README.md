@@ -15,7 +15,7 @@ by Umar Ahmad
 
 R is a complete, flexible and open source system for statistical analysis and graphics, which has become a tool of choice for biologists and biomedical scientists who need to analyse and visualise their experimental data. This 1-day course will give an introduction to R and Rstudio (an integrated development environment for R) in an interactive manner. Participants will receive example data sets to practice data manipulation, graphical exploration and statistical hypothesis testing. If you want to transition from coding in base R to the tidyverse, or just jump into doing data science in the tidyverse without any prior R experience, this workshop is for you! 
 
-To review some basic about R, here are some resources for getting started:
+To review some basics about R, here are some resources for getting started:
 
 - [A (very) short introduction to R](https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf)
 - [DataCamp - Introduction to R with Jonathon Cornelissen](https://www.datacamp.com/courses/free-introduction-to-r)
