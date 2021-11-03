@@ -4,8 +4,8 @@ by Umar Ahmad
 
 -----
 
-:spiral_calendar: July 18 2021
-:alarm_clock:     10:00 - 18:00 (GMT +1) 
+:spiral_calendar: November 10 2021
+:alarm_clock:     10:00 - 5:15 (GMT +1) 
 
 -----
 
@@ -63,7 +63,11 @@ Dr. Umar Ahmad is a Visiting Research Fellow on Genetics (Cancer) with Genetics 
 We have a fantastic assitants for this webinar! They are:
 
 - Hamza Lawal
+Hamza Lawal is a lecturer at Department of Biochemistry, Bauchi State University, Gadau. He obtained his Bachelor's degree in Biochemistry at the University of Jos, Nigeria in 2010 and Master's degree in Biochemistry at Universiti Putra Malaysia (UPM) in 2018. His research interests are computational biology, cancer epigenetics, medicinal chemistry, and cancer immunotherapy.
+
+
 - Murtala M. Jibril
+Murtala M. Jibril is from Department of Human Anatomy of Bauchi State University, Gadau, certified with a B.Sc in Anatomy from University of Jos (2005), and M.Sc from Ahmadu Bello University (ABU) Zaria (2015), currently a Ph.D candidate at University of Jos. He is working in reproductive anatomy, cytogenetics, and bioinformatics. A passionate data scientist certified in data quality and statistical techniques.
 
 
 # Pre-Workshop Materials <a id="preworkshop"></a>
